@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+.nav-bar {
+  background-color: #251d3d;
+}
+
+#logo {
+  padding-top: 0;
+  padding-left: 10px;
+}
+
+#tabs {
+  padding-right: 90px;
+}
+
+h1 {
+  color: #251d3d;
+  padding-bottom: 0%;
+  font-family: 'Lalezar';
+  font-size: 2rem;
+}
+
+h2 {
+  font-family: 'Lalezar';
+  color: #251d3d;
+}
+
+.blockquote {
+  border-left: 5px solid #251d3d;
+}
+
+.right-align-blockquote {
+  text-align: right;
+  border-left: 5px solid #251d3d;
+}
+
+#empower {
+  padding-top: 0%;
+  font-size: 2rem;
+}
+
+h5 {
+  padding-top: 0;
+  font-family: 'Lalezar';
+  font-size: 4rem;
+}
+
+h4 {
+  font-family: 'Lalezar';
+}
+
+#purple-text {
+  color: #251d3d;
+}
+
+p {
+  color: black;
+}
+
+#right-align {
+  text-align: right;
+}
+
+span {
+  color: #fdc603;
+}
+
+
+#uniform-image {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#uniform-image img {
+  width: 335px;
+  height: 245px;
+  object-fit: cover;
+}
+
+
+#footer {
+  background-color:#251d3d;
+}
+
+#icons {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 54px;
+}
+
+#terms {
+  font-family: 'Saira Condensed';
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 3.8px;
+  padding-left: 2.5rem;
+  padding-right: 2rem;
+}
+
+#policy {
+  font-family: 'Saira Condensed';
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 3.8px;
+}
